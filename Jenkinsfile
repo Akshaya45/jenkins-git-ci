@@ -11,9 +11,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Running tests...'
-                // Simulate a failing test
-                sh 'exit 1'   // For Linux/Mac agent
-                // bat 'exit 1' // For Windows agent
+               
             }
         }
 
