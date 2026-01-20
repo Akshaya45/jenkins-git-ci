@@ -3,5 +3,9 @@ Jenkins + Git CI demo
 
 
 CI test commit
-Triggering Jenkins build
+
+
+Triggering the jenkins for auto - Build 
+
+
 
